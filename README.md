@@ -1,2 +1,2 @@
 # JEEboot
-Create a JEE web application  like SpringBoot!
+Create a JEE Web Application  like SpringBoot!
