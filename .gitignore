@@ -1,3 +1,6 @@
 .idea
 .nvm
 target
+/.idea
+/.nvm
+/target
